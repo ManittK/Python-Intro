@@ -4,8 +4,8 @@ b3 = "25/7/1980"
 b4 = "24/5/2010"
 b5 = "25/12/2025"
 
-print(b1)
-print(b2)
-print(b3)
-print(b4)
-print(b5)
+print(" My is on",b1)
+print(" My mother's is on",b2)
+print(" My father's is on",b3)
+print(" My sister's is on",b4)
+print(" My fiend's is on",b5)
