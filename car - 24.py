@@ -11,11 +11,11 @@ else:
         else:
             print("Random Car booked :)")
     elif car == "Bike":
-        ctype = input("Do you want to share or singular?")
-        if ctype == "share":
-            print("Your share bike has been booked for tomorrow at 6:30 pm")
-        elif ctype == "singular":
-            print("Your single bike has been booked for tomorrow at 6:30 pm")
+        ctype = input("Do you want to scooty or scooter?")
+        if ctype == "scooty":
+            print("Your scooty bike has been booked for tomorrow at 6:30 pm")
+        elif ctype == "scooter":
+            print("Your scooter bike has been booked for tomorrow at 6:30 pm")
         else:
             print("Random bike booked :)")
     else:
